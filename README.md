@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kingsleyeshunmintah
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning ADA
 - 💞️ love good vibes
-- 📫 How to reach me [ IG: ecode517 , eshun_517 ]
+- 📫 How to reach me [ IG: ecode_517 , telegram : t.me/ecodelabs ]
 - thanks
 
 <!---
